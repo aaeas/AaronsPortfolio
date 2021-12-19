@@ -1,6 +1,15 @@
 h1 {
-    color: red;
+    color: rgb(0, 132, 255);
 }
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/Blue Geometric.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
 header nav{
     float right: 7px 0;
 }
@@ -17,10 +26,10 @@ img{
     width: 200 px;
 }
 h2 {
-    background: red;
+    background: rgb(0, 132, 255);
 }
 h3 {
-    background: red;
+    background: rgb(0, 132, 255);
 }
 footer nav{
     float right: 7px 0;
